@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # location-app
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# location-app
+>>>>>>> e0836b5fdc9535c0de47092773b0a1ca16243e90
